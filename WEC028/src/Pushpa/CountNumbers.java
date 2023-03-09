@@ -16,6 +16,8 @@ public class CountNumbers
 
         char choice;
 	
+        
+        
         do
         {
             System.out.print("Enter the number ");
